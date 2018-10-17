@@ -81,7 +81,7 @@ forever stopall
 • **Maks Rago** - **Add me on Discord:** A. Soytano#1578
 
 ## License
-This project is licensed under the GPL v3.0 License - see the [LICENSE.md](LICENSE.md) for details.
+This project is licensed under the GPL v3.0 License - see the [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 * Big thank you to the authors of the [discord.js](https://discord.js.org/#/docs/main/stable/general/welcome) documentation.
